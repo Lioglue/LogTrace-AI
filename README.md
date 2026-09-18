@@ -27,5 +27,5 @@ Modern organizations generate millions of logs daily across web servers, firewal
 *   **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript
 *   **Backend:** Python, FastAPI
 *   **Database:** SQL
-##  Target Audience & Use Case
+  Target Audience & Use Case
 This project is built for **small organizations, students, system administrators, and security teams** who need an intuitive, accessible tool to analyze large security logs and reconstruct cybersecurity breaches effectively.
