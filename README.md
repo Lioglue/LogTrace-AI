@@ -24,6 +24,8 @@ Modern organizations generate millions of logs daily across web servers, firewal
 *   **Chronological Reconstruct:** Beautifully maps out an incident's exact timeline to visualize how an attack unfolded.
 *   **Incident Replay:** A creative simulation mode allowing analysts to play back security events chronologically to observe the breach progression in real time.
 ##  Tech Stack
+##
+##
 *   **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript
 *   **Backend:** Python, FastAPI
 *   **Database:** SQL
