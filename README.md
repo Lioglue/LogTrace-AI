@@ -1,16 +1,14 @@
 # LogTrace AI 🛡️
+---
 ### Intelligent Cybersecurity Log Analysis and Incident Investigation Platform
 
 LogTrace AI is a web-based cybersecurity platform designed to simplify log analysis, detect malicious behavior, and accelerate incident investigations. The platform centralizes, parses, and automatically analyzes vast amounts of raw, complex security log data—transforming them into clear, actionable security insights and visual timelines.
 
----
 
 ##  Project Overview
 Modern organizations generate millions of logs daily across web servers, firewalls, authentication systems, databases, and operating systems. Manually reviewing these logs is tedious, time-consuming, and highly prone to human error, which often leads to critical security incidents being missed. 
 
 **LogTrace AI** solves this bottleneck. Users can securely upload raw log files through a centralized web dashboard. The platform's backend automatically processes the logs, applies predefined security rules to flag suspicious activity, and correlates disparate alerts into a unified, chronological attack story.
-
----
 
 ##  Key Features
 
@@ -37,8 +35,6 @@ Modern organizations generate millions of logs daily across web servers, firewal
 ###  6. Attack Story Timeline & Replay Mode
 *   **Chronological Reconstruct:** Beautifully maps out an incident's exact timeline to visualize how an attack unfolded.
 *   **Incident Replay:** A creative simulation mode allowing analysts to play back security events chronologically to observe the breach progression in real time.
-
----
 
 ##  Tech Stack
 
