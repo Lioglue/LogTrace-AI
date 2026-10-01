@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.env
+*.db
+*.sqlite3
+node_modules/
+.vite/
+dist/

@@ -1,0 +1,5 @@
+2024-01-15 10:00:01 auth-server Failed login attempt user=jdoe from 203.0.113.42
+2024-01-15 10:00:02 auth-server Failed login attempt user=jdoe from 203.0.113.42
+2024-01-15 10:00:03 auth-server Failed login attempt user=jdoe from 203.0.113.42
+2024-01-15 10:00:04 auth-server Failed login attempt user=jdoe from 203.0.113.42
+2024-01-15 10:00:05 auth-server Successful login user=jdoe from 203.0.113.42

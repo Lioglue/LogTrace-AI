@@ -1,0 +1,9 @@
+2024-01-15 09:00:01 auth-server Failed login attempt user=admin from 192.168.1.100
+2024-01-15 09:00:02 auth-server Failed login attempt user=admin from 192.168.1.100
+2024-01-15 09:00:03 auth-server Failed login attempt user=admin from 192.168.1.100
+2024-01-15 09:00:04 auth-server Failed login attempt user=admin from 192.168.1.100
+2024-01-15 09:00:05 auth-server Failed login attempt user=admin from 192.168.1.100
+2024-01-15 09:00:06 auth-server Failed login attempt user=root from 192.168.1.100
+2024-01-15 09:00:07 auth-server Failed login attempt user=root from 192.168.1.100
+2024-01-15 09:00:08 auth-server Failed login attempt user=admin from 10.0.0.50
+2024-01-15 09:00:09 web-server-01 INFO Request processed GET /dashboard 200 15ms
