@@ -1,0 +1,10 @@
+2024-01-15 08:00:01 web-server-01 INFO Request processed GET /dashboard 200 15ms
+2024-01-15 08:00:02 web-server-01 INFO Request processed GET /api/users 200 23ms
+2024-01-15 08:00:03 web-server-01 INFO Request processed POST /api/data 201 45ms
+2024-01-15 08:00:04 web-server-01 INFO Request processed GET /reports 200 12ms
+2024-01-15 08:00:05 auth-server INFO Session created user=john session=abc123
+2024-01-15 08:00:06 web-server-01 INFO Request processed GET /profile 200 8ms
+2024-01-15 08:00:07 web-server-01 INFO Request processed PUT /settings 200 32ms
+2024-01-15 08:00:08 web-server-01 INFO Request processed GET /notifications 200 11ms
+2024-01-15 08:00:09 web-server-01 INFO Request processed DELETE /temp/file 204 5ms
+2024-01-15 08:00:10 web-server-01 INFO Request processed GET /health 200 2ms
