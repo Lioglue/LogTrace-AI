@@ -2,6 +2,7 @@
 
 ## Cybersecurity Log Analysis and Incident Investigation Platform
 video link https://drive.google.com/file/d/1ENgbDsddZU8t8sxeFrKAAqklVBlrTVKz/view?usp=sharing
+
 LogTrace AI is a web-based platform that transforms raw security logs into clear, understandable Attack Stories. It automatically parses logs, detects suspicious activity, correlates related events, and reconstructs possible incidents into chronological investigation timelines.
 
 ---
